@@ -1,0 +1,5 @@
+#define WIFI_SSID "ICT_EX5_2G"
+#define WIFI_PASS "embedded"
+#define WEB_SERVER "raspberrypi-20BXXXXX.local"
+#define WEB_PORT "50000"
+#define WEB_URL "http://" WEB_SERVER ":" WEB_PORT "/status"
